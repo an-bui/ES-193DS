@@ -1,0 +1,14 @@
+---
+title: "syllabus"
+format: revealjs
+editor: visual
+---
+
+# Class information
+
+- list
+
+# Logistics
+
+- list 2
+

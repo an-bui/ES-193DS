@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Class information"
 ---
 
-About this site
+About this class - [link to syllabus?](an-bui.github.io/ES-193DS/syllabus.html)
