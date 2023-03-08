@@ -2,4 +2,4 @@
 title: "Class information"
 ---
 
-About this class - [link to syllabus?](an-bui.github.io/ES-193DS/syllabus.html)
+About this class - [link to syllabus?](syllabus.html)
